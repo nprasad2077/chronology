@@ -2,3 +2,6 @@
 /dist
 /build
 /chronological.egg-info
+
+.env
+demo/.env
